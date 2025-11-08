@@ -1,4 +1,4 @@
-# MyHealthyPlate - System Architecture
+# Eatfit - System Architecture
 
 **Version:** 1.0  
 **Last Updated:** November 2025  
@@ -8,7 +8,7 @@
 
 ## Overview
 
-This document outlines the technical architecture for MyHealthyPlate, a mobile application that helps Nigerians make personalized healthy food choices. 
+This document outlines the technical architecture for Eatfit, a mobile application that helps Nigerians make personalized healthy food choices. 
 
 ---
 
@@ -202,7 +202,7 @@ Here's how all the components work together:
 │                                                    │
 │   ┌────────────────────────────────────────┐     │
 │   │                                        │     │
-│   │    MyHealthyPlate Mobile App           │     │
+│   │    Eatfit Mobile App           │     │
 │   │         (React Native)                 │     │
 │   │                                        │     │
 │   │  • Home Screen                         │     │
@@ -750,7 +750,7 @@ If the MVP succeeds, these features can be added:
 
 ## Conclusion
 
-MyHealthyPlate's architecture is straightforward, uses battle-tested free technologies, and is absolutely feasible for an intern team to build in 3-4 months. The hybrid approach (free API + manual Nigerian foods) balances ambition with practicality.
+Eatfit's architecture is straightforward, uses battle-tested free technologies, and is absolutely feasible for an intern team to build in 3-4 months. The hybrid approach (free API + manual Nigerian foods) balances ambition with practicality.
 
 **Key Success Factors:**
 - ✅ Zero infrastructure costs to start

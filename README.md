@@ -1,4 +1,4 @@
-# Myhealthyplate
+# Eatfit
 
 *Your personal food health companion*
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Myhealthyplate is a mobile application that helps you make informed food choices based on your unique health profile. Whether you're managing a chronic condition, dealing with food allergies, or simply want to eat healthier, Myhealthyplate provides personalized insights to guide your dietary decisions.
+Eatfit is a mobile application that helps you make informed food choices based on your unique health profile. Whether you're managing a chronic condition, dealing with food allergies, or simply want to eat healthier, Eatfit provides personalized insights to guide your dietary decisions.
 
 ---
 
@@ -24,7 +24,7 @@ Current nutrition information is generic,conflicting and doesn't account for ind
 
 ## Who It's For
 
-Myhealthyplate is designed for:
+Eatfit is designed for:
 
 - **Health-conscious individuals** who want to make better food choices
 - **People managing chronic conditions** like diabetes, high blood pressure, or heart disease
@@ -52,7 +52,7 @@ Get personalized food insights based on your unique needs
 
 ## Technology Stack
 
-Myhealthyplate will be built with modern, scalable technologies:
+Eatfit will be built with modern, scalable technologies:
 
 - **Mobile Frontend:** React Native (cross-platform for iOS and Android)
 - **Backend:** Node.js with Express.js
